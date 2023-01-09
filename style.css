@@ -1,20 +1,24 @@
-.title-zero{
-font-style: italic;
-color: darkmagenta;
+.title {
+	text-align: center;
 }
 
-.title-one{
-    color: blue;
-    font-weight:200;
-    font-style: inherit;
-    font-size: 30px;
+.title-zero {
+	font-style: italic;
+	color: darkmagenta;
 }
 
-.title-two{
-    padding-left: 30px;
+.title-one {
+	color: blue;
+	font-weight: 200;
+	font-style: inherit;
+	font-size: 30px;
 }
 
-.box{
-    background-color: chartreuse;
-    height: 100px;
+.title-two {
+	padding-left: 30px;
+}
+
+.box {
+	background-color: chartreuse;
+	height: 100px;
 }
